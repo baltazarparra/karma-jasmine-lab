@@ -3,9 +3,9 @@ function TodoService($resource, $http) {
 		delete: {
 			method: 'DELETE'
 		}
-	});
+	})
 }
 
 angular
 	.module('app')
-	.service('TodoService', TodoService);
+	.service('TodoService', TodoService)
