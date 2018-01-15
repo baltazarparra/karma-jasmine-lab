@@ -1,4 +1,4 @@
-describe('Counter', () => {
+describe('Counter Directive', () => {
   let $compile, $scope, $controller, element
 
   beforeEach(module('app'))

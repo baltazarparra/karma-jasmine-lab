@@ -1,4 +1,4 @@
-describe('TodoController', function() {
+describe('Todo Controller', function() {
   let $controller, TodoController
 
   beforeEach(module('app'))
