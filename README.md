@@ -12,7 +12,7 @@ then run
 karma start
 ```
 
-The example test will pass!
+Should have success
 
 # Karma Config
 
